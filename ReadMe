@@ -3,7 +3,6 @@ Virtual Memory Management
 =======================================================
 login user: ayeletgi
 Writen by:Ayelet Gibli
-Id:208691675
 
 This program simulates the memory management by the operating system.
 It uses page table, swap, and FIFO algorithm.
