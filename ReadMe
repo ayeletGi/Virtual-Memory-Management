@@ -1,0 +1,29 @@
+File:ex4
+Virtual Memory Management
+=======================================================
+login user: ayeletgi
+Writen by:Ayelet Gibli
+Id:208691675
+
+This program simulates the memory management by the operating system.
+It uses page table, swap, and FIFO algorithm.
+
+Compile: g++ sim_mem.cpp main.cpp -o main
+Run:./main
+
+Input: No input.
+In main you can use "load" func to load a char from address in memory.
+ "store" func to store a char to an address in memory.
+You can print main memory, swap and page table to see their content and changes. 
+
+
+Output:According to the printing in memory, will print the memory content.
+
+Files:
+1)main.cpp-the main program.
+2)sim_mem.h-class definition.
+3)sim_mem.cpp-class implementation.
+4)README-this file.
+5)Makefile
+
+
